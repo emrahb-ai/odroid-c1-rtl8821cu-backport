@@ -1,0 +1,1 @@
+Prebuilt RTL8821CU kernel module for Hardkernel Linux 3.10.107-11 ARMv7.
