@@ -1,4 +1,5 @@
 *.ko
+!prebuilt/**/*.ko
 *.o
 *.mod.c
 *.cmd
